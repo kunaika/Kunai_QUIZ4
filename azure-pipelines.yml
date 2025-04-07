@@ -4,7 +4,7 @@ trigger:
       - main  # You can change 'main' to your branch name
 
 pool:
-  name: Self-hosted for Quiz4  # Use your self-hosted agent pool here
+  name: Quiz4_Kunai  # Use your self-hosted agent pool here
 
 steps:
   # Step 1: Use the .NET SDK
